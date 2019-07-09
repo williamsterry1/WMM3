@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703537333843",
+    "firebase_url": "https://dating-a2526.firebaseio.com",
+    "project_id": "dating-a2526",
+    "storage_bucket": "dating-a2526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703537333843:android:57e35ec6a9305435",
+        "android_client_info": {
+          "package_name": "com.dinosoftlabs.binder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703537333843-mphc2c0es6hqc04a1157b46k7vns01p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinosoftlabs.binder",
+            "certificate_hash": "7a607c9732b013fa6c8a4e70cc3610044ddb401e"
+          }
+        },
+        {
+          "client_id": "703537333843-inh2ns9aglsl9a3ms2ag5ol20jp58f6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTB8coQ9p0OnIWKDezbQP2KVr7vg62ww4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703537333843-inh2ns9aglsl9a3ms2ag5ol20jp58f6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

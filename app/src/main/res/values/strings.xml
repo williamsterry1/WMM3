@@ -1,0 +1,49 @@
+﻿<resources>
+    <string name="app_name">Binder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<string name="phonetext">Enter a phone number that can be used to verify your identity with a text message or phone call. </string>-->
+    <string name="phonetext">Please Enter Your Mobile Number. We Will Be Sending A Six Code To Authenticate Your Account.</string>
+    <string name="verifytext">Please Enter The Six Digits Authentication Code That Was Sent To Your Mobile Number</string>
+
+    <string name="facebook_app_id">----fb id-----</string>
+    <string name="fb_login_protocol_scheme">fb(----fb id-----)</string>
+
+    <string name="my_Interstitial_Add">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="subscription_txt">By tapping “Continue”, your payment will be charged to your Google Play
+        account, and your subscription will automatically renew for the same
+        package length at the same price until you cancel it in settings in the
+        Google Play store at least 24 hours prior to the end of the current period.
+        By tapping “Continue”, you agree to our Privacy Policy and Terms.</string>
+
+    <string name="giphy_api">place your Giphy api key</string>
+
+
+    <!--if you install the app form android studio-->
+    <string name="google_debug_key">google map debug key</string>
+
+
+    <!--if you install the app form Play store-->
+    <string name="google_release_key">google map release key</string>
+
+
+    <!--debug key if install from android studio or release key if install from playstore-->
+    <string name="Places_api">Google map debug  or release key</string>
+
+
+    <string name="version">13.9</string>
+
+    <string name="device">android</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="text_welcome_1">Welcome To <b>WeMatchMake.com</b>, Nigeria Number One Match Making Platform, Where We Use Advance Scientific Algorithm To Locate &amp; Connect You To Your Marriage Partner &amp; Soul Mate.</string>
+    <string name="text_welcome_2"><b>WeMatchMake</b> Algorithm Is First Of Its Kind In Nigeria, Where We Use Your Personality, Preferences, Character, Traits, Like, Dislike, etc To Provide You With Compatible Suitors Of Nigerian Origin Both Home &amp; Abroad, Giving You Multiple Choices Of Opportunity Of Finding Your Desired Marriage Partner.</string>
+    <string name="why_we_are_different">Why We Are Different...</string>
+    <string name="text_welcome_3">On-like Other Apps That Creates An Open Chat Platform For Everyone, <b>WeMatchMake.com</b> Is Different &amp; Unique.\nWe Match You Up With A 90% - 100% Compatible Marriage Partner/s.\nThis Simply Means That Any Match/s Provided To You Through Our Advance Algorithm, Has Met All Your Preferences And Your Profile Has Also Met The Preferences Of The Individual/s Matches As Well.\nSo It Is Advisable To Fill All Boxes As Accurate &amp; Honest As You Can.</string>
+    <string name="text_welcome_4">There Are No Wrong Or Right Answers....</string>
+    <string name="text_welcome_5">Just Be Yourself... <b>And Let Us Find Your Marriage Partner...</b></string>
+    <string name="phone_number_verification">Phone Number Verification</string>
+    <string name="profile_setup">1</string>
+</resources>
